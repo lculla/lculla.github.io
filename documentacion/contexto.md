@@ -14,6 +14,7 @@ Transformar datos reales de conversaciones en una experiencia visual e interacti
 - Con qué frecuencia aparecen.
 - Cuántas letras/caracteres se ahorran al utilizarlas.
 - Cómo se acumula ese ahorro en el conjunto de los mensajes.
+- Que el usuario pueda visualizar las equivalencias de forma visual de mi ahorro.
 
 ## Material de investigación
 Se han aportado tres conversaciones de WhatsApp:
@@ -49,6 +50,6 @@ Confirmado:
 
 Abierto:
 - Cómo representar visualmente el ahorro acumulado.
-- Qué comparaciones cotidianas pueden dar escala a las cifras sin resultar forzadas.
+- Qué comparaciones cotidianas pueden dar escala a las cifras sin resultar forzadas pero que sean divertidas y llamativas para el usuario. 
 - Qué visualizaciones y formas de exploración tendrán más sentido con los datos.
 - El alcance definitivo del análisis de abreviaciones y la validación de las cifras.
