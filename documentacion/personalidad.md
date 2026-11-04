@@ -5,13 +5,13 @@ La experiencia debe sentirse curiosa, cercana, inteligente y ligeramente jugueto
 
 ## Voz y tono
 - Lenguaje claro, natural y directo.
-- Cercano, sin infantilizar al usuario.
-- Ingenioso y sugerente, sin exagerar ni convertir cada dato en un chiste.
-- Evitar el tono académico, moralista o excesivamente tecnológico.
+- Cercano, sin infantilizar al usuario pero adaptado al lenguaje actual.
+- Ingenioso, divertido y sugerente, pudiendo llegar un poco a jugar con la ironía pero sin ser un chiste.
+- Evitar el tono académico, moralista o excesivamente tecnológico y matemático.
 - No juzgar cómo escribe cada persona: las abreviaciones son una estrategia cotidiana de comunicación, no un error.
 
 ## Relación con el usuario
-La web invita a explorar los propios hábitos de escritura. Debe despertar curiosidad y hacer que el usuario quiera interactuar y descubrir patrones, más que limitarse a mostrar una conclusión cerrada.
+La web invita a explorar en que se puede gestionar el tiempo ahorrado al abreviar. Debe despertar curiosidad y hacer que el usuario quiera interactuar, jugar y descubrir patrones, más que limitarse a mostrar una conclusión cerrada.
 
 ## Principio
-Hacer visible algo que normalmente pasa desapercibido: el pequeño ahorro que se acumula cada vez que escribimos de forma abreviada.
+Hacer visible algo que normalmente pasa desapercibido: el pequeño ahorro que se acumula cada vez que escribimos de forma abreviada, como al acumularse con el tiempo se vuelven en tareas o objetos más grandes.
