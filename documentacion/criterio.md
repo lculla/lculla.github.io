@@ -4,14 +4,14 @@
 1. **Interacción:** la prioridad principal es que la persona tenga ganas de tocar, explorar, probar y seguir descubriendo.
 2. **Exploración de datos:** los resultados deben poder recorrerse y compararse de una manera atractiva; no basta con presentar una cifra final.
 3. **Comprensión:** cada visualización debe ayudar a entender qué se ha contado y qué significa.
-4. **Rigor:** las cifras deben proceder de los chats analizados, con un método claro y revisable.
-5. **Personalidad:** mantener un lenguaje visual y verbal propio, sin sacrificar la claridad.
+4. **Rigor:** las cifras deben proceder de los chats analizados, con un método claro y revisable pero siempre teniendo en cuenta que los datos pueden ser aproximados.
+5. **Personalidad:** mantener un lenguaje visual y verbal propio y juvenil, sin sacrificar la claridad.
 
 ## Enfoque de experiencia
 - La exploración de los resultados es el núcleo de la web.
 - El juego de preguntas puede existir como recurso complementario, pero no debe dominar la experiencia.
 - Favorecer descubrimientos progresivos y pequeñas interacciones que inviten a continuar.
-- Buscar maneras de dar escala al ahorro acumulado. Comparar cifras pequeñas de un solo día con objetos o tareas puede no resultar suficientemente interesante; no forzar equivalencias.
+- Buscar maneras de dar escala al ahorro acumulado. Comparar cifras pequeñas de un solo día con objetos o tareas puede no resultar suficientemente interesante; no forzar equivalencias. Ir aumentando el tiempo de análisis para crear comparaciones más ricas.
 
 ## Criterios para el análisis de chats
 - Analizar únicamente los mensajes escritos por Lucía cuando se estudian sus hábitos personales.
