@@ -41,3 +41,26 @@ Documentación inicial creada. No se han modificado `index.html`, `script.js` ni
 ### Preferencia de registro
 - Lucía solicita que, cuando escriba la palabra «importante» en el chat, el contenido de ese mensaje se registre en este log.
 - Esta regla describe una preferencia de trabajo para las conversaciones con el asistente; el registro en GitHub se realizará cuando el asistente pueda acceder al repositorio durante esa conversación.
+
+## SESIÓN 18/11 — Diseño de la web y vista previa local
+
+### Trabajo realizado
+- Se diseñó una primera versión larga de la web «Lo que no escribí», organizada en scrolls.
+- Scroll 1: portada a pantalla completa con fondo ilustrado, la frase «¿Y si todo el tiempo que ahorras escribiendo pudieras utilizarlo para vivir otras cosas?» y el botón «Descubre más...» con flecha hacia abajo.
+- Scroll 2: pregunta de investigación en mayúsculas: «¿CUÁNTO TIEMPO ME AHORRO AL ABREVIAR EN WHATSAPP, Y EN QUÉ PODRÍA IMPLEMENTAR ESTE TIEMPO?». Se recolocó al principio del scroll y se redujo su altura para que solo ocupe el contenido de la pregunta y la animación.
+- Bajo la pregunta se añadió una animación de bocadillos de chat. Los mensajes aparecen escalonados y se desvanecen. Incluye «q tal?», «xq no?», «q haces?», «xq llegas?», «y q?», «xq?», «xfaaa», «m gusta» y «sii tbb». La nota aclaratoria visible bajo la animación se eliminó a petición de Lucía.
+- Scrolls siguientes: ahorro estimado de 59.787 caracteres; resumen de 99.480 mensajes, 29.466 usos y 13 abreviaciones; comparación interactiva por conversación; criterios de validación pendientes; y cierre que explica que el tiempo ahorrado aún no está calculado.
+- Comparación preliminar de mensajes de Lucía con abreviaciones: Natiss 8,57%; Les calamardes 7,49%; Raúl 6,62%.
+- Se conservaron avisos de que las cifras son preliminares y no se inventaron equivalencias de caracteres a tiempo.
+
+### Vista previa local y archivos
+- URL local para abrir la web: http://localhost:8765/
+- Enlace directo al segundo scroll y a la animación: http://localhost:8765/#pregunta
+- Archivo actual del prototipo en el espacio de trabajo de Codex: `work/preview/index.html`.
+- El servidor local se inició en el puerto 8765 con `ruby -run -e httpd work/preview -p 8765`. Es una vista previa local de esta sesión, no un sitio publicado; la URL localhost solo está disponible mientras el servidor siga ejecutándose en el equipo.
+- El prototipo está en el espacio de trabajo local y todavía no se ha integrado en el `index.html` del repositorio.
+
+### Próximos pasos
+- Revisar la secuencia completa y editar cada scroll según los comentarios de Lucía.
+- Validar el inventario real de abreviaciones antes de presentar los bocadillos como ejemplos extraídos de los chats.
+- Validar el cálculo de caracteres ahorrados y determinar si existe una forma defendible de estimar el tiempo.
