@@ -85,3 +85,14 @@ Documentación inicial creada. No se han modificado `index.html`, `script.js` ni
 
 ### Próximo paso
 - Recoger la idea concreta de Lucía sobre cómo se juega y completar el documento antes de analizar y programar la experiencia.
+
+## 2026-11-18 — Ampliación del concepto del juego
+
+### Trabajo realizado
+- Se revisó la conversación de ChatGPT «Proyecto Personal» y se incorporaron a `documentacion/juego.md` los detalles disponibles sobre el juego, junto con las respuestas de Lucía en esta conversación.
+- Se documentó el inicio con Start, la aparición de la mascota, el presupuesto de 88 minutos, las actividades, el final con recopilación de acciones, el público joven y el estilo pixel art.
+- Se separaron las ideas por confirmar de las decisiones expresadas por Lucía. Se señaló que la equivalencia entre los 88 minutos y el ahorro real todavía necesita método y periodo de referencia.
+- Se añadió como posibilidad futura un modo de datos propios procesado localmente, sin convertirlo en requisito de la primera versión.
+
+### Próximos pasos
+- Confirmar el título, definir la mascota y escenario, completar las ocho actividades y establecer la relación verificable entre los datos y el tiempo de juego.
