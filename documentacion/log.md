@@ -96,3 +96,15 @@ Documentación inicial creada. No se han modificado `index.html`, `script.js` ni
 
 ### Próximos pasos
 - Confirmar el título, definir la mascota y escenario, completar las ocho actividades y establecer la relación verificable entre los datos y el tiempo de juego.
+
+
+## 2026-11-18 — Registro del desarrollo de LITTLE TIME
+
+### Trabajo realizado
+- Se creó `documentacion/Procesojuego.md` para dejar registrado el proceso completo de la primera versión del juego, desde la idea hasta la disposición final de la partida.
+- El documento recoge el flujo Start → aparición de la mascota → habitación de juego → resumen, los costes de las ocho actividades, las iteraciones visuales, los textos finales y las cuestiones todavía abiertas.
+- Se dejó constancia de que el prototipo se implementó como HTML, CSS y JavaScript en `outputs/little-time/`, está disponible mediante vista previa local y aún no se ha publicado ni integrado en la página principal del repositorio.
+- Se registró que los 88 minutos son una cantidad provisional y que su equivalencia con el ahorro real todavía no está validada.
+
+### Documento de proceso
+- `documentacion/Procesojuego.md`
