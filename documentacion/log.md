@@ -64,3 +64,9 @@ Documentación inicial creada. No se han modificado `index.html`, `script.js` ni
 - Revisar la secuencia completa y editar cada scroll según los comentarios de Lucía.
 - Validar el inventario real de abreviaciones antes de presentar los bocadillos como ejemplos extraídos de los chats.
 - Validar el cálculo de caracteres ahorrados y determinar si existe una forma defendible de estimar el tiempo.
+
+### Prototipo guardado en GitHub
+- Para conservar la web al cerrar el chat, se guardó el prototipo completo en `prototipos/lo-que-no-escribi-preview.html` en la rama `main`.
+- Archivo: https://github.com/lculla/lculla.github.io/blob/main/prototipos/lo-que-no-escribi-preview.html
+- Este archivo conserva los scrolls y la animación actual. Es una copia de prototipo; no sustituye la página principal `index.html` ni cambia la publicación principal.
+- La vista previa interactiva local sigue en http://localhost:8765/ mientras el servidor permanezca activo. Si el servidor se detiene, se puede volver a servir el archivo guardado desde la carpeta local del proyecto al descargarlo de GitHub.
