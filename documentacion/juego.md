@@ -70,25 +70,24 @@ Hasta validar esa relación, el juego debe describir los 88 minutos como una can
 
 Se han mencionado actividades como:
 
-- Comer.
-- Pintar o dibujar.
-- Pescar.
-- Plantar o cuidar una planta.
-- Dormir.
-- Escuchar música.
-- Jugar a un videojuego.
+- Pintar o dibujar. (5 min)
+- Pescar. (20 min)
+- Plantar o cuidar una planta. (15 min)
+- Dormir. (10 min)
+- Escuchar música. (3 min)
+- Jugar a un videojuego. (15 min)
+- Comer. (5 min)
+- Leer. (10 min)
 
-Se había planteado contar con **ocho actividades** en total. La lista definitiva, el coste de cada actividad y los premios o cambios que desbloquea siguen pendientes de confirmar.
+Se había planteado contar con **ocho actividades** en total. La lista definitiva, el coste de cada actividad y los premios o cambios que desbloquea siguen pendientes de confirmar. Se pueden usar más de una vez siempre que tengas tiempo suficiente.
 
 Cada actividad debería especificar:
 
 | Elemento | Definición pendiente |
 | --- | --- |
 | Nombre y acción | Qué hace la mascota |
-| Coste | Cuántos minutos consume |
 | Animación | Qué ocurre en pantalla |
 | Premio o cambio | Qué aparece, se consigue o cambia después |
-| Repetición | Si se puede elegir varias veces |
 
 ## 7. Mascota y espacio
 
