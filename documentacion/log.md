@@ -31,3 +31,13 @@ Este documento recoge el trabajo realizado, las decisiones tomadas y los próxim
 
 ### Estado al cerrar la sesión
 Documentación inicial creada. No se han modificado `index.html`, `script.js` ni `style.css`.
+
+## 2026-11-18 — Análisis de la documentación y registro de mensajes importantes
+
+### Trabajo realizado
+- Se revisaron los documentos de contexto, criterios, personalidad y registro del proyecto.
+- Se confirmó que el repositorio de GitHub es `lculla/lculla.github.io` y que contiene este archivo.
+
+### Preferencia de registro
+- Lucía solicita que, cuando escriba la palabra «importante» en el chat, el contenido de ese mensaje se registre en este log.
+- Esta regla describe una preferencia de trabajo para las conversaciones con el asistente; el registro en GitHub se realizará cuando el asistente pueda acceder al repositorio durante esa conversación.
