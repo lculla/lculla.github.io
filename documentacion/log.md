@@ -70,3 +70,8 @@ Documentación inicial creada. No se han modificado `index.html`, `script.js` ni
 - Archivo: https://github.com/lculla/lculla.github.io/blob/main/prototipos/lo-que-no-escribi-preview.html
 - Este archivo conserva los scrolls y la animación actual. Es una copia de prototipo; no sustituye la página principal `index.html` ni cambia la publicación principal.
 - La vista previa interactiva local sigue en http://localhost:8765/ mientras el servidor permanezca activo. Si el servidor se detiene, se puede volver a servir el archivo guardado desde la carpeta local del proyecto al descargarlo de GitHub.
+
+### Ajuste posterior — cursiva en la cifra acumulada
+- A petición de Lucía, la frase «letras que no llegué a escribir» aparece en cursiva bajo la cifra 59.787.
+- El cambio se aplicó tanto a la vista previa local como al prototipo guardado en GitHub: `prototipos/lo-que-no-escribi-preview.html`.
+- La vista previa local continúa en http://localhost:8765/ mientras el servidor siga activo.
