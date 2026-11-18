@@ -75,3 +75,13 @@ Documentación inicial creada. No se han modificado `index.html`, `script.js` ni
 - A petición de Lucía, la frase «letras que no llegué a escribir» aparece en cursiva bajo la cifra 59.787.
 - El cambio se aplicó tanto a la vista previa local como al prototipo guardado en GitHub: `prototipos/lo-que-no-escribi-preview.html`.
 - La vista previa local continúa en http://localhost:8765/ mientras el servidor siga activo.
+
+## 2026-11-18 — Documento inicial de la idea del juego
+
+### Trabajo realizado
+- Se creó `documentacion/juego.md` como documento vivo para definir la futura experiencia web interactiva basada en los datos del proyecto.
+- Se incorporaron el contexto, los objetivos, las cifras preliminares y los criterios de rigor ya documentados.
+- Se dejaron las mecánicas, el recorrido, el público y el alcance como decisiones pendientes para completarlos con Lucía, sin inventar reglas del juego.
+
+### Próximo paso
+- Recoger la idea concreta de Lucía sobre cómo se juega y completar el documento antes de analizar y programar la experiencia.
