@@ -2,7 +2,7 @@
 
 ## Prioridades de diseño
 1. **Interacción:** la prioridad principal es que la persona tenga ganas de tocar, explorar, probar y seguir descubriendo.
-2. **Exploración de datos:** los resultados deben poder recorrerse y compararse de una manera atractiva; no basta con presentar una cifra final.
+2. **Exploración de datos:** los resultados deben poder recorrerse y compararse de una manera atractiva ya sea con animaciones o imagenes y colores llamativos; no basta con presentar una cifra final.
 3. **Comprensión:** cada visualización debe ayudar a entender qué se ha contado y qué significa.
 4. **Rigor:** las cifras deben proceder de los chats analizados, con un método claro y revisable pero siempre teniendo en cuenta que los datos pueden ser aproximados.
 5. **Personalidad:** mantener un lenguaje visual y verbal propio y juvenil, sin sacrificar la claridad.
@@ -15,7 +15,7 @@
 
 ## Criterios para el análisis de chats
 - Analizar únicamente los mensajes escritos por Lucía cuando se estudian sus hábitos personales.
-- Separar y etiquetar los resultados por conversación: Natiss, Raúl y grupo "Les calamardes".
+- Separar y etiquetar los resultados por conversación: Natiss, Raúl y grupo "Les calamardes". Cambiamos nombres a Chat 1, Chat 2, Chat 3 para mantener privacidad.
 - Identificar las abreviaciones realmente utilizadas, no limitarse a una lista genérica.
 - Contabilizar frecuencia y ahorro de caracteres con una regla explícita y consistente.
 - Revisar el contexto de formas ambiguas (por ejemplo, "xq" y "x") antes de clasificarlas.
