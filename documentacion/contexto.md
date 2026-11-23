@@ -6,7 +6,7 @@ Proyecto web experimental sobre la **economía de mensajes**: investigar cuánto
 El punto de partida es un gesto muy cotidiano: escribir "xq" en lugar de "porque", "q" en lugar de "que", etc. La web busca hacer visible ese ahorro y convertir los hábitos de escritura en una experiencia de exploración.
 
 ## Pregunta de partida
-¿Cuánto esfuerzo de escritura me ahorro al abreviar en WhatsApp, y qué significa esa cifra en comparación con textos o tareas cotidianas?
+¿CUÁNTO TIEMPO ME AHORRO AL ABREVIAR EN WHATSAPP, Y EN QUÉ PODRÍA IMPLEMENTAR ESTE TIEMPO?
 
 ## Objetivo
 Transformar datos reales de conversaciones en una experiencia visual e interactiva que permita descubrir:
