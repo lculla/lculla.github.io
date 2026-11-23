@@ -1,5 +1,16 @@
 # Criterios del proyecto
 
+## QUIERO: Una web que resulte atractiva.
+
+SERÁ BUENO SI:
+- Diseñamos animaciones llamativas
+- Hay diferentes tipos de visualización de datos interactivas
+- Se pueden mostrar los resultados o comparaciones visualmente
+  
+NO SIRVE SI:
+- Aparece solamente texto, sin visualizaciones ni animaciones ni imágenes
+- Los datos reflejados no son los de la investigación
+
 ## Prioridades de diseño
 1. **Interacción:** la prioridad principal es que la persona tenga ganas de tocar, explorar, probar y seguir descubriendo.
 2. **Exploración de datos:** los resultados deben poder recorrerse y compararse de una manera atractiva ya sea con animaciones o imagenes y colores llamativos; no basta con presentar una cifra final.
