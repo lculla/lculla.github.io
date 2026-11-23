@@ -121,3 +121,18 @@ Documentación inicial creada. No se han modificado `index.html`, `script.js` ni
 - Se recibieron cuatro imágenes como referencias para el siguiente trabajo visual: `DONT EDIT OR REPOST.jpeg`, `_ (26).jpeg`, `_ (27).jpeg` y `concept text.jpeg`, ubicadas en la carpeta Descargas de Lucía.
 - Las imágenes quedan anotadas como referencias visuales para retomar el diseño; aún no se han incorporado al HTML.
 - Registro solicitado con el título «22/11» y completado el 23/11/2026.
+
+## SESIÓN 23/11 — Fichas giratorias y equivalencias
+
+### Trabajo realizado
+- Las tres fichas de equivalencia de la penúltima pantalla ahora giran al pasar el cursor. También se pueden abrir y cerrar con toque o botón, para funcionar en pantallas táctiles.
+- En la ficha de cine se muestra una combinación exacta: `Barbie` (1 h 54 min) + `Spider-Man: Across the Spider-Verse` (2 h 20 min) + 1 h 00 min 53 s de otra película = 5 h 14 min 53 s. Se enlazan las fichas de duración de Netflix y Disney+.
+- En la ficha musical: 89 canciones de 3 min 30 s + 3 min 23 s de la canción 90 = 5 h 14 min 53 s. La referencia de 3:30 es «BIRDS OF A FEATHER» de Billie Eilish y se enlaza Spotify.
+- En la ficha de clases: 6 clases de 50 min + 14 min 53 s de la siguiente = 5 h 14 min 53 s. La duración de 50 minutos está marcada explícitamente como una suposición.
+- Las equivalencias están presentadas como aproximaciones para explorar y se aclara que se pueden redefinir.
+
+### Archivos y vista previa
+- HTML actualizado: `outputs/lo-que-no-escribi-v2.html` en el espacio de trabajo local.
+- Host privado local: http://localhost:8765/lo-que-no-escribi-v2.html#equivalencias
+- La página actual es la versión local descargable; no se ha publicado como web pública.
+- Registro añadido el 23/11/2026.
