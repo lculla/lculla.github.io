@@ -10,6 +10,9 @@ La experiencia debe sentirse curiosa, cercana y entretenida, con interacciones p
 - Evitar el tono académico, moralista o excesivamente tecnológico, matemático y preciso.
 - No juzgar cómo escribe cada persona: las abreviaciones son una estrategia cotidiana de comunicación, no un error.
 
+## Estética
+
+
 ## Relación con el usuario
 La web invita a explorar cuanto tiempo me ahorro yo abreviando palabras en chats y en que se puede gestionar este tiempo. Debe despertar curiosidad y hacer que el usuario quiera interactuar, jugar y descubrir patrones, más que limitarse a mostrar una conclusión cerrada.
 
