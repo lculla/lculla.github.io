@@ -108,3 +108,16 @@ Documentación inicial creada. No se han modificado `index.html`, `script.js` ni
 
 ### Documento de proceso
 - `documentacion/Procesojuego.md`
+
+## SESIÓN 22/11 — Respaldo del HTML y referencias visuales
+
+### Estado guardado
+- Se conserva el prototipo actual como HTML autónomo en el espacio de trabajo: `outputs/lo-que-no-escribi.html`.
+- Se actualizó también el respaldo permanente en GitHub: `prototipos/lo-que-no-escribi-preview.html` (rama `main`). La página principal `index.html` no se ha reemplazado.
+- Vista previa privada en este equipo: http://localhost:8765/lo-que-no-escribi.html. El servidor local debe seguir activo para que el enlace funcione; el HTML guardado puede abrirse directamente en un navegador.
+- El prototipo incluye los scrolls ya diseñados, la animación de mensajes abreviados y el texto «letras que no llegué a escribir» en cursiva.
+
+### Referencias visuales recibidas
+- Se recibieron cuatro imágenes como referencias para el siguiente trabajo visual: `DONT EDIT OR REPOST.jpeg`, `_ (26).jpeg`, `_ (27).jpeg` y `concept text.jpeg`, ubicadas en la carpeta Descargas de Lucía.
+- Las imágenes quedan anotadas como referencias visuales para retomar el diseño; aún no se han incorporado al HTML.
+- Registro solicitado con el título «22/11» y completado el 23/11/2026.
