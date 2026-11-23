@@ -86,7 +86,16 @@ Por ejemplo:
 Repetimos la operación con las 13 abreviaciones.
 
 De caracteres a tiempo:
-Para convertir los caracteres ahorrados en tiempo necesitamos establecer una velocidad de escritura. Hemos decidido utilizar 200 caracteres por minuto como velocidad de referencia. \[\text{Tiempo (minutos)} =\frac{\text{Caracteres ahorrados}}{200}\]
+Para convertir los caracteres ahorrados en tiempo necesitamos establecer una velocidad de escritura. Hemos decidido utilizar 200 caracteres por minuto como velocidad de referencia. Tiempo (minutos) = Caracteres ahorrados partido 200. Equivale a 314,875 minutos ahorrados o lo mismo, 5h 14min y 53s. 
+Según periodo siguiendo la media del tiempo analizado (1.286 días):
+1 día: 15 segundos
+1 mes: 7 min 21 s
+2 meses: 14 min 41 s
+3 meses: 22 min 02 s
+6 meses: 44 min 05 s
+1 año: 1 h 29 min 22 s
+2 años: 2 h 58 min 44 s
+3 años: 4 h 28 min 07 s
 
 ## Estado actual de la web
 El repositorio contiene una estructura inicial muy sencilla:
